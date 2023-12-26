@@ -104,6 +104,10 @@
 # Book1.enter_data()
 # Book1.display_data()
 
+
+# Задание 3
+
+
 # class Stadium():
 #     name_of_stadium = ""
 #     openening_date = ""
